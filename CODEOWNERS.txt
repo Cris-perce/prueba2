@@ -1,0 +1,7 @@
+# En este ejemplo, cualquier cambio en este repo
+# requiere aprobación de @MadMax-Col
+* @MadMax-Col
+
+# cualquier cambio dentro del directorio  '/Documents'
+# requiere aprobación de cualquier persona en la organización.
+/Documents @PerceptioDevOps/docsteam
